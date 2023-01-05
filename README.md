@@ -42,8 +42,9 @@ Tech and Tools Preference
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Facuzanan88&theme=blue-green" alt="Facuzanan88" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Facuzanan88&show_icons=true&locale=en" alt="Facuzanan88" /></p>
+
 <br>
-<br>
+
 ## :mailbox_with_mail: Stay in touch!
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:facundozanandrea@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundo-zanandrea-884958247/)
