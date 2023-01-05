@@ -44,11 +44,9 @@ Tech and Tools Preference
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Facuzanan88&show_icons=true&locale=en" alt="Facuzanan88" /></p>
 <br>
 ## :mailbox_with_mail: Stay in touch!
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:facundozanandrea@gmail.com)
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juandrewanz@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-francisco-drewanz-7b099226/)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:facundozanandrea@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundo-zanandrea-884958247/)
 <!--
 **Facuzanan88/Facuzanan88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
