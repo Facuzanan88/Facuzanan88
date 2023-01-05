@@ -9,6 +9,7 @@
 :pencil2: I am currently working on the development of an E-commerce for a clothing company in Santa Fe, Argentina to consolidate and continue developing my skills.
 <br>
 
+
 ## :bulb: My stack
 Tech and Tools Preference
 <br>
@@ -37,6 +38,7 @@ Tech and Tools Preference
 ![npm](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![MaterialUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 <br>
+
 
 ## :chart_with_upwards_trend: Git stats
 <div align="center">
