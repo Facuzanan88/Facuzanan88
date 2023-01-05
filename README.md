@@ -35,6 +35,7 @@ Tech and Tools Preference
 <br>
 ## :chart_with_upwards_trend: Git stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Facuzanan88&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Facuzanan88&show_icons=true&locale=en" alt="tomyanas" /></p>
 <!--
 **Facuzanan88/Facuzanan88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
