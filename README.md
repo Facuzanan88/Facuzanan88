@@ -1,5 +1,7 @@
 ## Hi everyone, I'm Facu Zanandrea! 👋
-<img src="https://user-images.githubusercontent.com/98441575/210801059-6141009b-9a99-41f4-9d46-d7d22d83337a.png" width="80%" align="center"  />
+<p align="center">
+<img src="https://user-images.githubusercontent.com/98441575/210801059-6141009b-9a99-41f4-9d46-d7d22d83337a.png" width="80%"/>
+  <p/>
 
 ## :boy: About me
 :computer: I’m a Full Stack Developer from Entre Rios, Argentina.
