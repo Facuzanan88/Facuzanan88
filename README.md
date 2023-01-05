@@ -40,7 +40,7 @@ Tech and Tools Preference
 
 ## :chart_with_upwards_trend: Git stats
 
-  <p align="left" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Facuzanan88&theme=blue-green" alt="Facuzanan88" /></p>
+  <p align="left" display="inline" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Facuzanan88&theme=blue-green" alt="Facuzanan88" /></p>
   <p align="right" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Facuzanan88&show_icons=true&locale=en" alt="Facuzanan88" /></p> 
   
 <br>
