@@ -42,12 +42,26 @@ Tech and Tools Preference
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Facuzanan88&theme=blue-green" alt="Facuzanan88" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Facuzanan88&show_icons=true&locale=en" alt="Facuzanan88" /></p>
----
+
 <br>
 
 ## :mailbox_with_mail: Stay in touch!
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:facundozanandrea@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundo-zanandrea-884958247/)
+
+<br>
+
+## :chart_with_upwards_trend: Git stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kochrg&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs[(https://github-readme-stats.vercel.app/api?username=Facuzanan88&show_icons=true&locale=en)]
+<br>
+
+## :mailbox_with_mail: Stay in touch!
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kochrg/)
+
+[:globe_with_meridians: kochrg.com.ar](kochrg.com.ar)
+
+[:email: contact@kochrg.com.ar](mailto:contact@kochrg.com.ar)
 <!--
 **Facuzanan88/Facuzanan88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
