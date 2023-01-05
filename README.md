@@ -1,6 +1,6 @@
 ## Hi everyone, I'm Facu Zanandrea! 👋
 <p align="center">
-<img src="https://user-images.githubusercontent.com/98441575/210801059-6141009b-9a99-41f4-9d46-d7d22d83337a.png" width="75%"/>
+<img src="https://user-images.githubusercontent.com/98441575/210801059-6141009b-9a99-41f4-9d46-d7d22d83337a.png" width="100%"/>
   <p/>
 
 ## :boy: About me
