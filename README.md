@@ -42,7 +42,7 @@ Tech and Tools Preference
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Facuzanan88&theme=blue-green" alt="Facuzanan88" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Facuzanan88&show_icons=true&locale=en" alt="Facuzanan88" /></p>
-
+---
 <br>
 
 ## :mailbox_with_mail: Stay in touch!
