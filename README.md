@@ -2,7 +2,6 @@
 
 
 ## :boy: About me
-
 :computer: I’m a Full Stack Developer from Entre Rios, Argentina.
 
 :raising_hand: Empathetic person, who likes to work in a team, with ease of adaptation. Committed and lover of good practices.
