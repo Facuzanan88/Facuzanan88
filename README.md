@@ -32,7 +32,9 @@ Tech and Tools Preference
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
-[materialUI](
+<br>
+## :chart_with_upwards_trend: Git stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Facuzanan88&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Facuzanan88/Facuzanan88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
