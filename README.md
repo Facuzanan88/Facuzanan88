@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![kochrg-github-top-banner-small3](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbootcamp.berkeley.edu%2Fblog%2Fhow-long-to-become-full-stack-developer%2F&psig=AOvVaw12lxTz32zBy0P6kZw2DuwE&ust=1673012851757000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCODjitjIsPwCFQAAAAAdAAAAABAE)
 
 ## :boy: About me
 :computer: I’m a Full Stack Developer from Entre Rios, Argentina.
