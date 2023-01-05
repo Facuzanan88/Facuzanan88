@@ -12,9 +12,11 @@
 ## :bulb: My stack
 Tech and Tools Preference
 <br>
-
-:computer: front-end 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+### :computer: front-end 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<a href="https://github.com/SigNoz/signoz"><img src="https://user-images.githubusercontent.com/63313062/182954547-8e3c891a-b7d6-4b81-94d1-d1eb4f644da0.png" height="28px" /></a>
 
 <!--
 **Facuzanan88/Facuzanan88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
