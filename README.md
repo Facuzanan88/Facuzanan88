@@ -35,9 +35,9 @@ Tech and Tools Preference
 <br>
 ## :chart_with_upwards_trend: Git stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quico88&theme=blue-green" alt="tomyanas" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Facuzanan88&theme=blue-green" alt="tomyanas" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Quico88&show_icons=true&locale=en" alt="tomyanas" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Facuzanan88&show_icons=true&locale=en" alt="tomyanas" /></p>
 <!--
 **Facuzanan88/Facuzanan88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
