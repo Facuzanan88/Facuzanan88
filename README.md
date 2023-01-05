@@ -53,7 +53,7 @@ Tech and Tools Preference
 
 ## :chart_with_upwards_trend: Git stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kochrg&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs[(https://github-readme-stats.vercel.app/api?username=Facuzanan88&show_icons=true&locale=en)]
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Facuzanan88&show_icons=true&locale=en" alt="Facuzanan88" /></p>
 <br>
 
 ## :mailbox_with_mail: Stay in touch!
