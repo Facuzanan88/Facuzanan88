@@ -16,6 +16,7 @@ Tech and Tools Preference
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![ReactJs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![ReactJs](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 <br>
@@ -27,17 +28,20 @@ Tech and Tools Preference
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 <br>
 ### :paperclip: Other technologies and tools
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
+![npm](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![MaterialUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 <br>
 ## :chart_with_upwards_trend: Git stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Facuzanan88&theme=blue-green" alt="tomyanas" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Facuzanan88&theme=blue-green" alt="Facuzanan88" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Facuzanan88&show_icons=true&locale=en" alt="tomyanas" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Facuzanan88&show_icons=true&locale=en" alt="Facuzanan88" /></p>
 <!--
 **Facuzanan88/Facuzanan88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
